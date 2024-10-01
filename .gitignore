@@ -1,0 +1,11 @@
+*.zip
+out/
+.idea/
+.git
+auth/target/
+authserver/target/
+cart/target/
+invetory/target/
+login/target/
+model/target/
+order/target/
